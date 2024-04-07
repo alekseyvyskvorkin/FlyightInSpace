@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488628833979",
+    "project_id": "flyinginspacetesttask",
+    "storage_bucket": "flyinginspacetesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488628833979:android:e28ec5c67bfa12e67fa39e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FlyingInSpaceAndroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX50knlC16Kg85c64USJGabUqrXePxA1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
